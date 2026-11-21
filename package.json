@@ -1,0 +1,6 @@
+{
+  "name": "app-time-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "vivo X90 + iPad Air 6 应用时间统一看板（Cloudflare Workers + D1）"
+}

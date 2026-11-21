@@ -1,0 +1,6 @@
+# 部署后在 Cloudflare Worker → 设置 → 变量和机密 里配置：
+# SYNC_TOKEN = 你自己设的一串随机密码（用于保护写入接口，防止别人往你的库里写数据）
+SYNC_TOKEN=change-me-to-a-random-string
+
+# 可选：每日推送摘要的 webhook（Bark / Server酱 / Telegram）
+# PUSH_WEBHOOK=
